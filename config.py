@@ -11,7 +11,7 @@ load_dotenv()
 # ==================== GOOGLE SHEETS ====================
 SHEET_ID = os.getenv(
     'GOOGLE_SHEET_ID', 
-    '1ThVwW3IbkL7Dw_Vrs9heT1QMiHDZw1Aj-n0XNbDi9i8'
+    '1vLc4E8Ut4uImgSrgPEYFFUZuKsRRNDh-52HZaHnaOqo'
 )
 SHEET_NAME_DATOS = os.getenv('SHEET_NAME_DATOS', 'Hoja1')
 SHEET_NAME_FECHA_CORTE = os.getenv('SHEET_NAME_FECHA', 'Hoja2')
